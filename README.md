@@ -16,8 +16,9 @@ Each project explores real-world data with a focus on clarity, design, and insig
 - Engagement metrics (likes, comments, shares)  
 - Growth over time and top-performing platforms  
 - Interactive filters by region and platform  
+[Social Media Engagement.pdf](https://github.com/user-attachments/files/22933814/Social.Media.Engagement.pdf)
 
-![Social Media Dashboard](./Social_Media_Engagement/screenshots/social_media_dashboard.png)
+
 
 ---
 
@@ -28,7 +29,8 @@ Each project explores real-world data with a focus on clarity, design, and insig
 - Age and gender distribution  
 - KPI cards showing population changes  
 
-![NRW Dashboard](./NRW_Demographics/screenshots/nrw_dashboard.png)
+[NRW Demographics.pdf](https://github.com/user-attachments/files/22933822/NRW.Demographics.pdf)
+
 
 ---
 
@@ -44,4 +46,4 @@ Each project explores real-world data with a focus on clarity, design, and insig
 I’m currently learning advanced Power BI modeling and visualization while building real-world projects.  
 I enjoy combining data with design to uncover insights and tell meaningful stories.
 
-📫 **Connect with me:** [LinkedIn](your-linkedin-url)
+📫 **Connect with me:** www.linkedin.com/in/syeda-anum-a05b1538a
