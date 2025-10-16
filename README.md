@@ -33,6 +33,18 @@ Each project explores real-world data with a focus on clarity, design, and insig
 
 
 ---
+### 3. [Stock Market Performance Dashboard](./Stock_Market_Dashboard/Stock_Market_Summary.md)
+**Goal:** Visualize stock market performance and sector trends using an API-style dataset to simulate real-time analysis.
+
+**Key Features:**
+- Daily stock movement with price and volume tracking  
+- Sector-wise performance and volatility comparison  
+- Moving average and cumulative volume DAX measures  
+- Smart Narrative insights and clean, modern visuals
+
+[Stock Market Overview.pdf](https://github.com/user-attachments/files/22952023/Stock.Market.Overview.pdf)
+
+---
 
 ## 🧰 Tools & Skills
 - **Power BI** for dashboard creation  
