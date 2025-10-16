@@ -1,36 +1,28 @@
-📈 Stock Market Performance Dashboard (API-Style)
+# 📈 Stock Market Performance Dashboard
 
-📊 Overview
-This dashboard simulates a live stock market environment using an API-style dataset. It analyzes daily stock performance, sector-level activity, and overall market trends across major companies including Apple, Microsoft, Tesla, and others.
+## 📊 Overview  
+This dashboard simulates real-world stock market analysis using an API-style dataset, showcasing trends in price, volume, and volatility across leading companies and sectors.
 
-🎯 Objectives
+## 🎯 Objectives  
+- Monitor daily and sector-level stock performance  
+- Compare average close prices and market volumes  
+- Identify top and worst-performing stocks  
+- Visualize volatility and forecast short-term trends  
 
-Track stock price movements and daily percentage changes
+## 🧠 Key Insights  
+- **Alphabet Inc.** recorded the highest average close price.  
+- **Technology sector** dominates overall performance and market stability.  
+- Market volatility remains moderate but shows slight year-end fluctuations.  
+- Volume patterns highlight consistent investor confidence in large-cap tech firms.  
 
-Compare performance across sectors
+## 🧰 Tools & Skills  
+- **Power BI** for dashboard design and DAX calculations  
+- **DAX** for performance KPIs, moving averages, and volatility measures  
+- **Excel / CSV** for data preprocessing  
+- **Data Visualization** (clean layout, consistent color scheme, storytelling)  
 
-Monitor trading volume and volatility trends
 
-Provide automated data-driven insights
-
-🧠 Key Insights
-
-Technology sector dominates market activity and trading volume
-
-Stable price trends observed with moderate volatility
-
-Clear visual distinction between high- and low-performing stocks
-
-Automated insights summarize best, worst, and most active performers
-
-🧰 Tools & Skills
-Power BI for interactive analytics and visualization
-DAX for advanced calculations (moving averages, volatility, cumulative volume)
-Data modeling and measure creation
-Dashboard design and storytelling
-
-📸 Dashboard Preview
-
+## 📸 Dashboard Preview  
 [Stock Market Overview.pdf](https://github.com/user-attachments/files/22951780/Stock.Market.Overview.pdf)
 
 
